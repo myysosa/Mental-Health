@@ -1,0 +1,38 @@
+body {
+  background: #c0cbf8;
+}
+h2 {
+  color:#6b6bd4;
+  text-align: center;
+  font-family: monospace
+}
+p {
+  color:rebeccapurple;
+  text-align: center;
+  font-family: cursive;
+}
+h6 {
+  font-weight: bold;
+  font-family: monospace
+}
+a {
+  border-style: dotted;
+  text-align: left;
+  width: 40px;
+  color: purple
+}
+  
+  
+}
+
+body {
+  background color: red;
+}
+
+img {
+
+  float: right;
+  width: 300px;
+  border-style: dashed;
+  border-color: #4a0c87;
+}
